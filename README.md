@@ -77,15 +77,15 @@ HACKTOBERFEST_API_KEY=sekret
 REDIS_HOST=redis
 REDIS_PORT=6379
 DALLI_SERVER=memcached
-GITHUB_CLIENT_ID=<fill-in-for-dev-setup>
-GITHUB_CLIENT_SECRET=<fill-in-for-dev-setup>
+GITHUB_CLIENT_COVID19=<fill-in-for-dev-setup>
+GITHUB_CLIENT_COVID19=<fill-in-for-dev-setup>
 START_DATE=<fill-in-for-dev-setup>
 RULES_DATE=<fill-in-for-dev-setup-same-as-start>
 END_DATE=<fill-in-for-dev-setup>
 AIRTABLE_API_KEY=<fill-in-for-dev-setup>
 AIRTABLE_APP_ID=<fill-in-for-dev-setup>
-SEGMENT_WRITE_KEY=<leave-blank>
-TEST_USER_GITHUB_TOKEN=<leave-blank>
+SEGMENT_WRITE_COVID19=<leave-blank>
+TEST_USER_GITHUB_COVID19=<leave-blank>
 ```
 **Note**: Use the following values when setting up your Oauth token:
 
